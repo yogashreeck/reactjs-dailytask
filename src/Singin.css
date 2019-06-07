@@ -1,0 +1,27 @@
+.singin{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.sing{
+   padding-top: 20px;
+   margin-left: 300px;
+   margin-right: 300px;
+   margin-bottom: 20px;
+}
+.inbox{
+    height: 30px;
+    width: 250px;
+    margin: 10px;
+}
+.logbtn{
+    width: 260px;
+    height: 40px;
+    background-color: rgb(69, 188, 141);
+    border: none;
+}
+.forgot{
+    font-size: 10px;
+}
+.Dont{
+    font-size: 12px;
+}
