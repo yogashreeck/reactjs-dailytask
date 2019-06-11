@@ -1,0 +1,17 @@
+.singup {
+    background-color: rgb(248, 244, 244);
+    padding: 20px;
+    padding-left: 550px;
+    padding-right: 100px;
+}
+.box{
+  margin-bottom: 20px;
+  height: 20px;
+  background-color:  rgb(248, 244, 244);
+}
+.create{
+    background-color: rgb(81, 146, 231);
+    border: 0px;
+    width: 150px;
+    height: 20px;
+}
