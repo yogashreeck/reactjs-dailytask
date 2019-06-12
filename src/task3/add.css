@@ -1,0 +1,22 @@
+.disply{
+  color: white;
+  display: flex;
+  text-align: center;
+  margin: 100px  200px 500px;;
+}
+.add{
+    margin-left: 200px;
+}
+.sub{
+    margin-left: 50px;
+}
+.multi{
+    margin-left: 50px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: rgb(81, 146, 231);
+    color: white;
+}

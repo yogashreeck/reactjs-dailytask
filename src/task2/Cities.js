@@ -6,7 +6,7 @@ class Cities extends Component {
   render() {
     return (
       <div>
-       <h1>{this.props.title}Names with city</h1>
+        <h1>{this.props.title}Names with city</h1>
         <City city="mandya">jhon</City>
         <City city="mysore">ram</City>
         <City city="maddur">sam</City>
