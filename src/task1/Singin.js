@@ -7,13 +7,13 @@ function Singin() {
   return (
     <div className="singin" >
       <div className="sing">
-        <h1>Sing In</h1>
-        <input className="inbox" type="text" placeholder="email address" /><br></br>
-        <input className="inbox" type="text" placeholder="password" /><br></br>
+        <h1>SING IN</h1>
+        <input className="inbox" type="text" placeholder="Email address" /><br></br>
+        <input className="inbox" type="text" placeholder="Password" /><br></br>
         <button className="logbtn">Login</button><br></br>
-        <a className="forgot">Forgot your password?</a>
+        <a className="forgot"><u>Forgot your password?</u></a>
       </div>
-      <a className="Dont">don't have an account? Sing up</a>
+      <a className="Dont">don't have an account? <u>Sing up</u></a>
     </div>
   );
 }

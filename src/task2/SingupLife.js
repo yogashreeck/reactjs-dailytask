@@ -1,17 +1,17 @@
 import React, { Component } from 'react';
 import './Singup.css';
 
-class Singup extends Component {
+class SingupLife extends Component {
 componentWillMount(){
-    console.log('Singup componentWillMount')
+    console.log('SingupLife componentWillMount')
 };
 
 componentDidMount(){
-    console.log('Singup componentDidMount')
+    console.log('SingupLife componentDidMount')
 };
 
     render() {
-        console.log('Singup render')
+        console.log('SingupLife render')
         return (
             <div>
                 <div className="singup">
@@ -43,4 +43,4 @@ componentDidMount(){
     }
 }
 
-export default Singup;
+export default SingupLife;

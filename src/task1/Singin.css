@@ -3,10 +3,12 @@
     margin-bottom: 20px;
 }
 .sing{
-   padding-top: 20px;
-   margin-left: 300px;
-   margin-right: 300px;
-   margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    border: 1px solid #e8e8e8;
+    margin: 20px 400px 15px 400px;
+    border-radius: 5px;
+    background-color: whitesmoke;
 }
 .inbox{
     height: 30px;
@@ -18,6 +20,8 @@
     height: 40px;
     background-color: rgb(69, 188, 141);
     border: none;
+    border-radius: 5px;
+    color: white;
 }
 .forgot{
     font-size: 10px;

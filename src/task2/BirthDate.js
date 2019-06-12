@@ -2,17 +2,17 @@ import React, { Component } from 'react';
 import Dates from './Dates';
 
 
-class Date extends Component {
+class BirthDate extends Component {
   render() {
     return (
       <div>
        <h1>{this.props.title}Names with Birth Date</h1>
-        <Date date="1995">jhon</Date>
-        <Date  date="1990">ram</Date>
-        <Date date="1985">sam</Date>
+        <Dates date="1995">jhon</Dates>
+        <Dates  date="1990">ram</Dates>
+        <Dates date="1985">sam</Dates>
       </div>
     );
   }
 }
 
-export default Date;
+export default BirthDate;
