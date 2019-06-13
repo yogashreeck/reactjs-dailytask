@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-d
 import Singin from './task1/Singin';
 import Age from './task2/Age';
 import Add from './task3/Add.js'
+import Events from './task4/Events'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route exact path='/task1' component={Singin}></Route>
           <Route exact path='/task2' component={Age}></Route>
           <Route exact path='/task3' component={Add}></Route>
+          <Route exact path='/task4' component={Events}></Route>
         </switch>
       </Router>
     </div>
